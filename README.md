@@ -11,3 +11,5 @@
     * section 6.3.2: "In my experience, the increase in explained variance in linear regression is typically negligible after the best, say, 15 variables have been included. For imputation purposes, it is expedient to select a suitable subset of data that contains no more than 15 to 25 variables"
 - [GLMM GAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html)
 - [Do not use averages with Likert scale data](https://bookdown.org/Rmadillo/likert/)
+- [Statistics Notes in the British Medical Journal](https://www-users.york.ac.uk/~mb55/pubs/pbstnote.htm)
+    * Excellent refresher on various statistical concepts
