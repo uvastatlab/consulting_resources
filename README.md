@@ -13,3 +13,12 @@
 - [Do not use averages with Likert scale data](https://bookdown.org/Rmadillo/likert/)
 - [Statistics Notes in the British Medical Journal](https://www-users.york.ac.uk/~mb55/pubs/pbstnote.htm)
     * Excellent refresher on various statistical concepts
+- [Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
+    * Good tips on organizing data in spreadsheets that is to be analyzed in R, Python, Stata, etc
+- [Moving to a World Beyond "p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
+    * Don’t base your conclusions solely on whether an association or effect was found to be “statistically significant” (i.e., the p-value passed some arbitrary threshold such as p < 0.05).
+    * Don’t believe that an association or effect exists just because it was statistically significant.
+    * Don’t believe that an association or effect is absent just because it was not statistically significant.
+    * Don’t believe that your p-value gives the probability that chance alone produced the observed association or effect or the probability that your test hypothesis is true.
+    * Don’t conclude anything about scientific or practical importance based on statistical significance (or lack thereof).
+    * We summarize our recommendations in two sentences totaling seven words: "Accept uncertainty. Be thoughtful, open, and modest."
