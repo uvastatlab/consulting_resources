@@ -23,3 +23,5 @@
     * Don’t believe that your p-value gives the probability that chance alone produced the observed association or effect or the probability that your test hypothesis is true.
     * Don’t conclude anything about scientific or practical importance based on statistical significance (or lack thereof).
     * We summarize our recommendations in two sentences totaling seven words: "Accept uncertainty. Be thoughtful, open, and modest."
+- [CRAN Task Views](https://cran.r-project.org/web/views/)
+    * Explore curated lists of R packages based on topic
